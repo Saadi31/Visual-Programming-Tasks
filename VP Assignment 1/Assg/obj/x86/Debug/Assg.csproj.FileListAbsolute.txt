@@ -1,0 +1,10 @@
+c:\users\saadi ronaldo\documents\visual studio 2010\Projects\Assg\Assg\bin\Debug\Assg.exe
+c:\users\saadi ronaldo\documents\visual studio 2010\Projects\Assg\Assg\bin\Debug\Assg.pdb
+c:\users\saadi ronaldo\documents\visual studio 2010\Projects\Assg\Assg\obj\x86\Debug\Assg.exe
+c:\users\saadi ronaldo\documents\visual studio 2010\Projects\Assg\Assg\obj\x86\Debug\Assg.pdb
+C:\Users\Saadi Ronaldo\Documents\Visual Studio 2010\Projects\Assg\Assg\obj\x86\Debug\Assg.csprojResolveAssemblyReference.cache
+C:\Users\Saadi Ronaldo\Documents\Visual Studio 2010\Projects\VP Assignment 1\Assg\obj\x86\Debug\Assg.exe
+C:\Users\Saadi Ronaldo\Documents\Visual Studio 2010\Projects\VP Assignment 1\Assg\obj\x86\Debug\Assg.pdb
+C:\Users\Saadi Ronaldo\Documents\Visual Studio 2010\Projects\VP Assignment 1\Assg\bin\Debug\Assg.exe
+C:\Users\Saadi Ronaldo\Documents\Visual Studio 2010\Projects\VP Assignment 1\Assg\bin\Debug\Assg.pdb
+C:\Users\Saadi Ronaldo\Documents\Visual Studio 2010\Projects\VP Assignment 1\Assg\obj\x86\Debug\Assg.csprojResolveAssemblyReference.cache
