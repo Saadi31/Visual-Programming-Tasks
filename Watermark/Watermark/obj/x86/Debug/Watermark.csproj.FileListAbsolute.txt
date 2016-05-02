@@ -1,9 +1,22 @@
 c:\users\saadi ronaldo\documents\visual studio 2010\Projects\Watermark\Watermark\bin\Debug\Watermark.exe
 C:\Users\Saadi Ronaldo\documents\visual studio 2010\Projects\Watermark\Watermark\obj\x86\Debug\Watermark.Form1.resources
-C:\Users\Saadi Ronaldo\documents\visual studio 2010\Projects\Watermark\Watermark\obj\x86\Debug\Watermark.Form2.resources
 C:\Users\Saadi Ronaldo\documents\visual studio 2010\Projects\Watermark\Watermark\obj\x86\Debug\Watermark.Properties.Resources.resources
 C:\Users\Saadi Ronaldo\documents\visual studio 2010\Projects\Watermark\Watermark\obj\x86\Debug\Watermark.csproj.GenerateResource.Cache
 C:\Users\Saadi Ronaldo\documents\visual studio 2010\Projects\Watermark\Watermark\obj\x86\Debug\Watermark.exe
 C:\Users\Saadi Ronaldo\documents\visual studio 2010\Projects\Watermark\Watermark\obj\x86\Debug\Watermark.pdb
-C:\Users\Saadi Ronaldo\documents\visual studio 2010\Projects\Watermark\Watermark\obj\x86\Debug\Watermark.csprojResolveAssemblyReference.cache
 C:\Users\Saadi Ronaldo\documents\visual studio 2010\Projects\Watermark\Watermark\bin\Debug\Watermark.pdb
+C:\Users\Saadi Ronaldo\documents\visual studio 2010\Projects\Watermark\Watermark\obj\x86\Debug\Watermark.Form3.resources
+C:\Users\Saadi Ronaldo\documents\visual studio 2010\Projects\Watermark\Watermark\obj\x86\Debug\Watermark.Form4.resources
+E:\Studies Stuff\Course\6th Semester\VP - Visual Programming\Visual-Programming-Tasks\Watermark\Watermark\obj\x86\Debug\Watermark.exe
+E:\Studies Stuff\Course\6th Semester\VP - Visual Programming\Visual-Programming-Tasks\Watermark\Watermark\obj\x86\Debug\Watermark.pdb
+E:\Studies Stuff\Course\6th Semester\VP - Visual Programming\Visual-Programming-Tasks\Watermark\Watermark\bin\Debug\Watermark.exe
+E:\Studies Stuff\Course\6th Semester\VP - Visual Programming\Visual-Programming-Tasks\Watermark\Watermark\bin\Debug\Watermark.pdb
+E:\Studies Stuff\Course\6th Semester\VP - Visual Programming\Visual-Programming-Tasks\Watermark\Watermark\obj\x86\Debug\Watermark.csprojResolveAssemblyReference.cache
+E:\Studies Stuff\Course\6th Semester\VP - Visual Programming\Visual-Programming-Tasks\Watermark\Watermark\obj\x86\Debug\Watermark.Form1.resources
+E:\Studies Stuff\Course\6th Semester\VP - Visual Programming\Visual-Programming-Tasks\Watermark\Watermark\obj\x86\Debug\Watermark.Form3.resources
+E:\Studies Stuff\Course\6th Semester\VP - Visual Programming\Visual-Programming-Tasks\Watermark\Watermark\obj\x86\Debug\Watermark.Form4.resources
+E:\Studies Stuff\Course\6th Semester\VP - Visual Programming\Visual-Programming-Tasks\Watermark\Watermark\obj\x86\Debug\Watermark.Properties.Resources.resources
+E:\Studies Stuff\Course\6th Semester\VP - Visual Programming\Visual-Programming-Tasks\Watermark\Watermark\obj\x86\Debug\Watermark.csproj.GenerateResource.Cache
+C:\Users\Saadi Ronaldo\Documents\Visual Studio 2010\Projects\Watermark\Watermark\obj\x86\Debug\Watermark.Form5.resources
+C:\Users\Saadi Ronaldo\Documents\Visual Studio 2010\Projects\Watermark\Watermark\obj\x86\Debug\Watermark.csprojResolveAssemblyReference.cache
+C:\Users\Saadi Ronaldo\Documents\Visual Studio 2010\Projects\Watermark\Watermark\obj\x86\Debug\Watermark.FormTemp.resources

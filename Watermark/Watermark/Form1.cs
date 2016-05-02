@@ -14,6 +14,9 @@ namespace Watermark
         public Form1()
         {
             InitializeComponent();
+            button2.Hide();
+            button3.Hide();
+            button4.Hide();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -23,35 +26,48 @@ namespace Watermark
 
      
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-           
-        
-
-
-
-        }
+       
 
         private void button1_Click_1(object sender, EventArgs e)
         {
 
-            Form2 frm = new Form2();
+           // Form2 frm = new Form2();
+          //  frm.Show();
+            button1.Hide();
+            
+            button2.Show();
+            button3.Show();
+            button4.Show();
+          
+
+
+        }
+
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form3 frm3 = new Form3();
+            frm3.Show();
+             this.Hide();
+             
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form5 frm = new Form5();
             frm.Show();
-            this.Hide();
+             this.Hide();
         }
 
-        private void label1_Click_1(object sender, EventArgs e)
+        private void button4_Click(object sender, EventArgs e)
         {
-
+            Form5 frm5 = new Form5();
+            frm5.Show();
         }
+       
     }
 
 
-    public partial class Form3 : Form
-    {
-        public Form3()
-        {
-            Text = "Form 3";
-        }
-    }
+   
 }
