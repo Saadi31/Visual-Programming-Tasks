@@ -17,10 +17,12 @@ namespace Watermark
             button2.Hide();
             button3.Hide();
             button4.Hide();
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
+           
 
         }
 
@@ -36,8 +38,8 @@ namespace Watermark
             button1.Hide();
             
             button2.Show();
-            button3.Show();
-            button4.Show();
+          //  button3.Show();
+           // button4.Show();
           
 
 
@@ -65,6 +67,9 @@ namespace Watermark
             Form5 frm5 = new Form5();
             frm5.Show();
         }
+
+       
+
        
     }
 
